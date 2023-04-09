@@ -1,0 +1,30 @@
+
+
+
+body{
+   
+}
+
+nav{
+    background-color: azure;
+    height: 20px;
+}
+h1{
+background-color: aqua;
+background-image: url("EP_BONDING PRE SHAMPOO 2000 X 900 copy.jpg");
+height: 400px;
+width: 200;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: scroll;
+
+}
+
+h2{
+    border: 10PX solid rgb(125, 90, 90);
+    font-size: 40px;
+}
+
+
+
+
